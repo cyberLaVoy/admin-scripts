@@ -1,0 +1,1 @@
+Used to allocated mailboxes to a set number of data bases. Result is a .ps1 file with commands to move mailboxes to the specified db. This uses a doubly linked list as a data structure to process the mailboxes.

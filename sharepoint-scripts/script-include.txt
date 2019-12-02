@@ -1,0 +1,8 @@
+
+**Custom script references**
+<SharePoint:ScriptLink runat="server" ID="testScript" Language="javascript" Name="~sitecollection/customScripts/testScript.js"/>
+<SharePoint:CssRegistration runat="server" ID="testStyle" Name="&#60;% $SPUrl:~sitecollection/customScripts/testStyle.css %&#62;" After="corev15.css"/> 
+
+**Button to call JavaScript function**
+<input type="button" value="Click Here!" onclick="myFunction();"/>
+
