@@ -1,0 +1,27 @@
+#!/bin/bash
+
+ORACLE_SID=PROD; export ORACLE_SID
+ORAENV_ASK=NO; export ORAENV_ASK
+PATH=/usr/local/bin:$PATH; export PATH
+. /usr/local/bin/oraenv
+
+. /home/.credentials
+
+today=$((10#`date +%m%d`))
+firstSummerDay=$((10#0506))
+firstFallDay=$((10#0821))
+firstSpringDay=$((10#0106))
+
+termCodeSuffix=40
+if (($today >= $firstSpringDay && $today < $firstSummerDay)) 
+then 
+	termCodeSuffix=20
+elif (($today >= $firstSummerDay && $today < $firstFallDay)) 
+then
+	termCodeSuffix=30
+fi
+
+sql_output=`sqlplus $USERID/$PASSWD @/student_positions.sql $termCodeSuffix`
+exit_code=$?
+export sql_output exit_code
+/bin/sh /home/sql_status.shl

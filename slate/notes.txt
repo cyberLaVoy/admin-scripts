@@ -1,0 +1,3 @@
+crontab entry:
+*/15 5-20 * * * /slate/scripts/export2slate.sh > /slate/logs/export2slate.cronout 2>&1
+

@@ -1,0 +1,1826 @@
+{
+    "ArrayOfLEA": {
+        "LEA": [
+            {
+                "LEANumber": "01", 
+                "LEAName": "Alpine District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "American Fork High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "721", 
+                            "SchoolName": "Cedar Valley High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "840", 
+                            "SchoolName": "Dan W. Peterson", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "790", 
+                            "SchoolName": "East Shore Online", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "808", 
+                            "SchoolName": "Horizon School", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Lehi High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "709", 
+                            "SchoolName": "Lone Peak High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "711", 
+                            "SchoolName": "Mountain View High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Orem High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Pleasant Grove High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "782", 
+                            "SchoolName": "Polaris High School", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "783", 
+                            "SchoolName": "Polaris West High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "785", 
+                            "SchoolName": "Skyridge High School", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "730", 
+                            "SchoolName": "Summit High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "718", 
+                            "SchoolName": "Timpanogos High", 
+                            "DistrictNumber": "01"
+                        }, 
+                        {
+                            "SchoolNumber": "789", 
+                            "SchoolName": "Westlake High", 
+                            "DistrictNumber": "01"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "02", 
+                "LEAName": "Beaver District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Beaver High", 
+                            "DistrictNumber": "02"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Milford High", 
+                            "DistrictNumber": "02"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "03", 
+                "LEAName": "Box Elder District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Bear River High", 
+                            "DistrictNumber": "03"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Box Elder High", 
+                            "DistrictNumber": "03"
+                        }, 
+                        {
+                            "SchoolNumber": "778", 
+                            "SchoolName": "Dale Young Community High", 
+                            "DistrictNumber": "03"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "04", 
+                "LEAName": "Cache District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Cache High", 
+                            "DistrictNumber": "04"
+                        }, 
+                        {
+                            "SchoolNumber": "703", 
+                            "SchoolName": "Green Canyon High School", 
+                            "DistrictNumber": "04"
+                        }, 
+                        {
+                            "SchoolNumber": "702", 
+                            "SchoolName": "Mountain Crest High", 
+                            "DistrictNumber": "04"
+                        }, 
+                        {
+                            "SchoolNumber": "705", 
+                            "SchoolName": "Ridgeline High School", 
+                            "DistrictNumber": "04"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Sky View High", 
+                            "DistrictNumber": "04"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "05", 
+                "LEAName": "Carbon District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Carbon High", 
+                            "DistrictNumber": "05"
+                        }, 
+                        {
+                            "SchoolNumber": "801", 
+                            "SchoolName": "Castle Valley Center", 
+                            "DistrictNumber": "05"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "06", 
+                "LEAName": "Daggett District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Manila High", 
+                        "DistrictNumber": "06"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "07", 
+                "LEAName": "Davis District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Bountiful High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Clearfield High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Davis High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "709", 
+                            "SchoolName": "Farmington High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Layton High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "730", 
+                            "SchoolName": "Mountain High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "711", 
+                            "SchoolName": "Northridge High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "733", 
+                            "SchoolName": "Renaissance Academy", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "660", 
+                            "SchoolName": "Star Transition", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Syracuse High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Viewmont High", 
+                            "DistrictNumber": "07"
+                        }, 
+                        {
+                            "SchoolNumber": "714", 
+                            "SchoolName": "Woods Cross High", 
+                            "DistrictNumber": "07"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "08", 
+                "LEAName": "Duchesne District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Altamont High", 
+                            "DistrictNumber": "08"
+                        }, 
+                        {
+                            "SchoolNumber": "802", 
+                            "SchoolName": "Con Amore School", 
+                            "DistrictNumber": "08"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Duchesne High", 
+                            "DistrictNumber": "08"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Tabiona High", 
+                            "DistrictNumber": "08"
+                        }, 
+                        {
+                            "SchoolNumber": "714", 
+                            "SchoolName": "Union High", 
+                            "DistrictNumber": "08"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "09", 
+                "LEAName": "Emery District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Emery High", 
+                            "DistrictNumber": "09"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Green River High", 
+                            "DistrictNumber": "09"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "10", 
+                "LEAName": "Garfield District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Bryce Valley High", 
+                            "DistrictNumber": "10"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Escalante High", 
+                            "DistrictNumber": "10"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Panguitch High", 
+                            "DistrictNumber": "10"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "11", 
+                "LEAName": "Grand District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Grand County High", 
+                        "DistrictNumber": "11"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "12", 
+                "LEAName": "Granite District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "702", 
+                            "SchoolName": "Cottonwood High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Cyprus High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Granger High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "740", 
+                            "SchoolName": "Granite Connection High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "775", 
+                            "SchoolName": "Granite Technical Institute", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Hunter High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "714", 
+                            "SchoolName": "Kearns High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Olympus High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "718", 
+                            "SchoolName": "Skyline High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "722", 
+                            "SchoolName": "Taylorsville High", 
+                            "DistrictNumber": "12"
+                        }, 
+                        {
+                            "SchoolNumber": "501", 
+                            "SchoolName": "Youth Educational Support School", 
+                            "DistrictNumber": "12"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "13", 
+                "LEAName": "Iron District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Canyon View High", 
+                            "DistrictNumber": "13"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Cedar City High", 
+                            "DistrictNumber": "13"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Parowan High", 
+                            "DistrictNumber": "13"
+                        }, 
+                        {
+                            "SchoolNumber": "750", 
+                            "SchoolName": "Southwest Educational Academy", 
+                            "DistrictNumber": "13"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "14", 
+                "LEAName": "Jordan District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Bingham High", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "703", 
+                            "SchoolName": "Copper Hills High", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "707", 
+                            "SchoolName": "Herriman High", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "744", 
+                            "SchoolName": "Jordan Academy for Technology & Careers South", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "741", 
+                            "SchoolName": "Jordan Academy for Technology and Careers - North", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "830", 
+                            "SchoolName": "Kauri Sue Hamilton", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "715", 
+                            "SchoolName": "Mountain Ridge High", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Riverton High", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "802", 
+                            "SchoolName": "South Valley School", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Valley High School", 
+                            "DistrictNumber": "14"
+                        }, 
+                        {
+                            "SchoolNumber": "718", 
+                            "SchoolName": "West Jordan High", 
+                            "DistrictNumber": "14"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "15", 
+                "LEAName": "Juab District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Juab High", 
+                        "DistrictNumber": "15"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "16", 
+                "LEAName": "Kane District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Big Water High", 
+                            "DistrictNumber": "16"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Kanab High", 
+                            "DistrictNumber": "16"
+                        }, 
+                        {
+                            "SchoolNumber": "714", 
+                            "SchoolName": "Lake Powell High School", 
+                            "DistrictNumber": "16"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Valley High", 
+                            "DistrictNumber": "16"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "17", 
+                "LEAName": "Millard District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Delta High", 
+                            "DistrictNumber": "17"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Eskdale High", 
+                            "DistrictNumber": "17"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Millard High", 
+                            "DistrictNumber": "17"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "18", 
+                "LEAName": "Morgan District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Morgan High", 
+                        "DistrictNumber": "18"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "19", 
+                "LEAName": "Nebo District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "650", 
+                            "SchoolName": "Bridges Nebo Transition Center", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "720", 
+                            "SchoolName": "Landmark High", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "702", 
+                            "SchoolName": "Maple Mountain High", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "747", 
+                            "SchoolName": "Nebo Advanced Learning Center", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Payson High", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Salem Hills High", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Spanish Fork High", 
+                            "DistrictNumber": "19"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Springville High", 
+                            "DistrictNumber": "19"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "1B", 
+                "LEAName": "Utah County Academy of Science", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Utah County Academy of Science", 
+                        "DistrictNumber": "1B"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "1I", 
+                "LEAName": "Utah International Charter School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Utah International Charter School", 
+                        "DistrictNumber": "1I"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "1K", 
+                "LEAName": "Vanguard Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Vanguard Academy", 
+                        "DistrictNumber": "1K"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "20", 
+                "LEAName": "North Sanpete District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "North Sanpete High", 
+                            "DistrictNumber": "20"
+                        }, 
+                        {
+                            "SchoolNumber": "801", 
+                            "SchoolName": "Pleasant Creek High School", 
+                            "DistrictNumber": "20"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "21", 
+                "LEAName": "North Summit District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "North Summit High", 
+                        "DistrictNumber": "21"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "22", 
+                "LEAName": "Park City District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Park City High", 
+                        "DistrictNumber": "22"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "23", 
+                "LEAName": "Piute District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "708", 
+                        "SchoolName": "Piute High", 
+                        "DistrictNumber": "23"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "24", 
+                "LEAName": "Rich District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "708", 
+                        "SchoolName": "Rich High", 
+                        "DistrictNumber": "24"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "25", 
+                "LEAName": "San Juan District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Monticello High", 
+                            "DistrictNumber": "25"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Monument Valley High", 
+                            "DistrictNumber": "25"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Navajo Mountain High", 
+                            "DistrictNumber": "25"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "San Juan High", 
+                            "DistrictNumber": "25"
+                        }, 
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Whitehorse High", 
+                            "DistrictNumber": "25"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "26", 
+                "LEAName": "Sevier District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Cedar Ridge High", 
+                            "DistrictNumber": "26"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "North Sevier High", 
+                            "DistrictNumber": "26"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Richfield High", 
+                            "DistrictNumber": "26"
+                        }, 
+                        {
+                            "SchoolNumber": "600", 
+                            "SchoolName": "Sevier Career and Technical Education Center", 
+                            "DistrictNumber": "26"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "South Sevier High", 
+                            "DistrictNumber": "26"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "27", 
+                "LEAName": "South Sanpete District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Gunnison Valley High", 
+                            "DistrictNumber": "27"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Manti High", 
+                            "DistrictNumber": "27"
+                        }, 
+                        {
+                            "SchoolNumber": "801", 
+                            "SchoolName": "South Sanpete Education Support Center", 
+                            "DistrictNumber": "27"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "28", 
+                "LEAName": "South Summit District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "705", 
+                            "SchoolName": "Silver Summit Academy", 
+                            "DistrictNumber": "28"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "South Summit High", 
+                            "DistrictNumber": "28"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "29", 
+                "LEAName": "Tintic District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Tintic High", 
+                            "DistrictNumber": "29"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "West Desert High School", 
+                            "DistrictNumber": "29"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "2C", 
+                "LEAName": "Intech Collegiate High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "600", 
+                        "SchoolName": "Intech Collegiate High School", 
+                        "DistrictNumber": "2C"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "2E", 
+                "LEAName": "Karl G. Maeser Preparatory Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Karl G. Maeser Preparatory Academy", 
+                        "DistrictNumber": "2E"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "2F", 
+                "LEAName": "Rockwell Charter High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Rockwell Charter High School", 
+                        "DistrictNumber": "2F"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "2H", 
+                "LEAName": "Utah Connections Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "101", 
+                        "SchoolName": "Utah Connections Academy", 
+                        "DistrictNumber": "2H"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "2J", 
+                "LEAName": "Ascent Academies of Utah", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "330", 
+                        "SchoolName": "Ascent Academies of Utah - West Valley", 
+                        "DistrictNumber": "2J"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "2K", 
+                "LEAName": "Utah Military Academy", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "700", 
+                            "SchoolName": "Utah Military Academy", 
+                            "DistrictNumber": "2K"
+                        }, 
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Utah Military Academy - Camp Williams", 
+                            "DistrictNumber": "2K"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "30", 
+                "LEAName": "Tooele District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "740", 
+                            "SchoolName": "Blue Peak High", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "600", 
+                            "SchoolName": "Dugway", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Grantsville High", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "720", 
+                            "SchoolName": "Stansbury High", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "730", 
+                            "SchoolName": "Tooele Community Learning Center", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Tooele High", 
+                            "DistrictNumber": "30"
+                        }, 
+                        {
+                            "SchoolNumber": "714", 
+                            "SchoolName": "Wendover High", 
+                            "DistrictNumber": "30"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "31", 
+                "LEAName": "Uintah District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "750", 
+                            "SchoolName": "Ashley Valley Educ. Ctr.", 
+                            "DistrictNumber": "31"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Uintah High", 
+                            "DistrictNumber": "31"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "32", 
+                "LEAName": "Wasatch District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Wasatch High", 
+                        "DistrictNumber": "32"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "33", 
+                "LEAName": "Washington District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "705", 
+                            "SchoolName": "Crimson Cliffs High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "703", 
+                            "SchoolName": "Desert Hills High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Dixie High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Enterprise High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "Hurricane High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "718", 
+                            "SchoolName": "Millcreek High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "720", 
+                            "SchoolName": "Pine View High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "240", 
+                            "SchoolName": "Post HS Self-Cont", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "725", 
+                            "SchoolName": "Snow Canyon High", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "500", 
+                            "SchoolName": "Utah Online 7-12", 
+                            "DistrictNumber": "33"
+                        }, 
+                        {
+                            "SchoolNumber": "518", 
+                            "SchoolName": "Water Canyon High", 
+                            "DistrictNumber": "33"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "34", 
+                "LEAName": "Wayne District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Wayne High", 
+                        "DistrictNumber": "34"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "35", 
+                "LEAName": "Weber District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "701", 
+                            "SchoolName": "Bonneville High", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Fremont High", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "750", 
+                            "SchoolName": "Horizon Academy", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Roy High", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "730", 
+                            "SchoolName": "Two Rivers High", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Weber High", 
+                            "DistrictNumber": "35"
+                        }, 
+                        {
+                            "SchoolNumber": "725", 
+                            "SchoolName": "Weber Innovation High School", 
+                            "DistrictNumber": "35"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "36", 
+                "LEAName": "Salt Lake District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "821", 
+                            "SchoolName": "Columbus Community Center", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "East High", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Highland High", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "750", 
+                            "SchoolName": "Horizonte Instruction & Training Center", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "748", 
+                            "SchoolName": "Innovations High School", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "749", 
+                            "SchoolName": "Salt Lake Technology Center", 
+                            "DistrictNumber": "36"
+                        }, 
+                        {
+                            "SchoolNumber": "716", 
+                            "SchoolName": "West High", 
+                            "DistrictNumber": "36"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "37", 
+                "LEAName": "Ogden City District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "703", 
+                            "SchoolName": "Ben Lomond High", 
+                            "DistrictNumber": "37"
+                        }, 
+                        {
+                            "SchoolNumber": "182", 
+                            "SchoolName": "Contracted Special Education", 
+                            "DistrictNumber": "37"
+                        }, 
+                        {
+                            "SchoolNumber": "729", 
+                            "SchoolName": "George Washington High", 
+                            "DistrictNumber": "37"
+                        }, 
+                        {
+                            "SchoolNumber": "731", 
+                            "SchoolName": "Malan's Peak Secondary", 
+                            "DistrictNumber": "37"
+                        }, 
+                        {
+                            "SchoolNumber": "707", 
+                            "SchoolName": "Ogden High", 
+                            "DistrictNumber": "37"
+                        }, 
+                        {
+                            "SchoolNumber": "620", 
+                            "SchoolName": "Spec. Educ. ATC", 
+                            "DistrictNumber": "37"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "38", 
+                "LEAName": "Provo District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "730", 
+                            "SchoolName": "Independence High", 
+                            "DistrictNumber": "38"
+                        }, 
+                        {
+                            "SchoolNumber": "560", 
+                            "SchoolName": "Oak Springs School", 
+                            "DistrictNumber": "38"
+                        }, 
+                        {
+                            "SchoolNumber": "510", 
+                            "SchoolName": "Provo eSchool", 
+                            "DistrictNumber": "38"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Provo High", 
+                            "DistrictNumber": "38"
+                        }, 
+                        {
+                            "SchoolNumber": "555", 
+                            "SchoolName": "Slate Canyon", 
+                            "DistrictNumber": "38"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "Timpview High", 
+                            "DistrictNumber": "38"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "39", 
+                "LEAName": "Logan City District", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "704", 
+                        "SchoolName": "Logan High", 
+                        "DistrictNumber": "39"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "3B", 
+                "LEAName": "Beehive Science & Technology Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Beehive Science & Technology Academy", 
+                        "DistrictNumber": "3B"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "3D", 
+                "LEAName": "Spectrum Academy", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "100", 
+                            "SchoolName": "Spectrum Academy - NSL", 
+                            "DistrictNumber": "3D"
+                        }, 
+                        {
+                            "SchoolNumber": "300", 
+                            "SchoolName": "Spectrum Academy - Pleasant Grove", 
+                            "DistrictNumber": "3D"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "3F", 
+                "LEAName": "Venture Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "100", 
+                        "SchoolName": "Venture Academy", 
+                        "DistrictNumber": "3F"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "3H", 
+                "LEAName": "Endeavor Hall", 
+                "Schools": null
+            }, 
+            {
+                "LEANumber": "3K", 
+                "LEAName": "Roots Charter High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Roots Charter High School", 
+                        "DistrictNumber": "3K"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "3L", 
+                "LEAName": "Leadership Academy of Utah", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Leadership Academy of Utah", 
+                        "DistrictNumber": "3L"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "40", 
+                "LEAName": "Murray District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "650", 
+                            "SchoolName": "Murray Adult Transition", 
+                            "DistrictNumber": "40"
+                        }, 
+                        {
+                            "SchoolNumber": "704", 
+                            "SchoolName": "Murray High", 
+                            "DistrictNumber": "40"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "41", 
+                "LEAName": "Utah Schools for Deaf & Blind", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "211", 
+                            "SchoolName": "Blind Region 2", 
+                            "DistrictNumber": "41"
+                        }, 
+                        {
+                            "SchoolNumber": "421", 
+                            "SchoolName": "Jean Massieu School for the Deaf", 
+                            "DistrictNumber": "41"
+                        }, 
+                        {
+                            "SchoolNumber": "121", 
+                            "SchoolName": "Kenneth Burdett School", 
+                            "DistrictNumber": "41"
+                        }, 
+                        {
+                            "SchoolNumber": "111", 
+                            "SchoolName": "North Region Blind", 
+                            "DistrictNumber": "41"
+                        }, 
+                        {
+                            "SchoolNumber": "321", 
+                            "SchoolName": "South Region Deaf", 
+                            "DistrictNumber": "41"
+                        }, 
+                        {
+                            "SchoolNumber": "521", 
+                            "SchoolName": "USD Online", 
+                            "DistrictNumber": "41"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "42", 
+                "LEAName": "Canyons District", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "702", 
+                            "SchoolName": "Alta High", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "705", 
+                            "SchoolName": "Brighton High", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "740", 
+                            "SchoolName": "Canyons Technical Education Center", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "840", 
+                            "SchoolName": "Canyons Transition Academy", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "777", 
+                            "SchoolName": "Canyons Virtual High School", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "711", 
+                            "SchoolName": "Corner Canyon High", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "750", 
+                            "SchoolName": "Diamond Ridge High School", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "950", 
+                            "SchoolName": "Entrada", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "706", 
+                            "SchoolName": "Hillcrest High", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "708", 
+                            "SchoolName": "Jordan High", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "810", 
+                            "SchoolName": "Jordan Valley School", 
+                            "DistrictNumber": "42"
+                        }, 
+                        {
+                            "SchoolNumber": "712", 
+                            "SchoolName": "South Park Academy", 
+                            "DistrictNumber": "42"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "4F", 
+                "LEAName": "Salt Lake Center for Science Education", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Salt Lake Center for Science Education", 
+                        "DistrictNumber": "4F"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "4I", 
+                "LEAName": "Mana Academy Charter School", 
+                "Schools": null
+            }, 
+            {
+                "LEANumber": "4K", 
+                "LEAName": "Athenian eAcademy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Athenian eAcademy", 
+                        "DistrictNumber": "4K"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "5C", 
+                "LEAName": "Legacy Preparatory Academy", 
+                "Schools": null
+            }, 
+            {
+                "LEANumber": "5F", 
+                "LEAName": "Utah Virtual Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Utah Virtual Academy", 
+                        "DistrictNumber": "5F"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "6D", 
+                "LEAName": "Noah Webster Academy", 
+                "Schools": null
+            }, 
+            {
+                "LEANumber": "74", 
+                "LEAName": "American Preparatory Academy", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "110", 
+                            "SchoolName": "American Preparatory Academy - Accelerated School", 
+                            "DistrictNumber": "74"
+                        }, 
+                        {
+                            "SchoolNumber": "700", 
+                            "SchoolName": "American Preparatory Academy - Draper #3", 
+                            "DistrictNumber": "74"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "7D", 
+                "LEAName": "Salt Lake School for the Performing Arts", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Salt Lake School for the Performing Arts", 
+                        "DistrictNumber": "7D"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "7G", 
+                "LEAName": "Summit Academy High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Summit Academy High School", 
+                        "DistrictNumber": "7G"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "81", 
+                "LEAName": "Walden School of Liberal Arts", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Walden School of Liberal Arts", 
+                        "DistrictNumber": "81"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "82", 
+                "LEAName": "Freedom Preparatory Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "100", 
+                        "SchoolName": "Freedom Preparatory Academy", 
+                        "DistrictNumber": "82"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "83", 
+                "LEAName": "Academy for Math Engineering & Science", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Academy for Math Engineering & Science", 
+                        "DistrictNumber": "83"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "86", 
+                "LEAName": "Pinnacle Canyon Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "100", 
+                        "SchoolName": "Pinnacle Canyon Academy", 
+                        "DistrictNumber": "86"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "87", 
+                "LEAName": "City Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "City Academy", 
+                        "DistrictNumber": "87"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "89", 
+                "LEAName": "Soldier Hollow Charter School", 
+                "Schools": null
+            }, 
+            {
+                "LEANumber": "8B", 
+                "LEAName": "American Leadership Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "100", 
+                        "SchoolName": "American Leadership Academy", 
+                        "DistrictNumber": "8B"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "8E", 
+                "LEAName": "Merit College Preparatory Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Merit College Preparatory Academy", 
+                        "DistrictNumber": "8E"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "8I", 
+                "LEAName": "Winter Sports School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Winter Sports School", 
+                        "DistrictNumber": "8I"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "8J", 
+                "LEAName": "Terra Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Terra Academy", 
+                        "DistrictNumber": "8J"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "8K", 
+                "LEAName": "American Academy of Innovation", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "American Academy of Innovation", 
+                        "DistrictNumber": "8K"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "8L", 
+                "LEAName": "Real Salt Lake Academy High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Real Salt Lake Academy High School", 
+                        "DistrictNumber": "8L"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "90", 
+                "LEAName": "Tuacahn High School for the Performing Arts", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Tuacahn High School for the Performing Arts", 
+                        "DistrictNumber": "90"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "92", 
+                "LEAName": "Uintah River High", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Uintah River High", 
+                        "DistrictNumber": "92"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "98", 
+                "LEAName": "Fast Forward High", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Fast Forward High", 
+                        "DistrictNumber": "98"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9C", 
+                "LEAName": "Paradigm High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Paradigm High School", 
+                        "DistrictNumber": "9C"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9E", 
+                "LEAName": "Providence Hall", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "100", 
+                        "SchoolName": "Providence Hall", 
+                        "DistrictNumber": "9E"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9F", 
+                "LEAName": "Mountain Heights Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "600", 
+                        "SchoolName": "Mountain Heights Academy", 
+                        "DistrictNumber": "9F"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9I", 
+                "LEAName": "Utah Career Path High School", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "600", 
+                        "SchoolName": "Utah Career Path High School", 
+                        "DistrictNumber": "9I"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9J", 
+                "LEAName": "Lumen Scholar Institute", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Lumen Scholar Institute", 
+                        "DistrictNumber": "9J"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9K", 
+                "LEAName": "St. George Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "St. George Academy", 
+                        "DistrictNumber": "9K"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "9L", 
+                "LEAName": "Capstone Classical Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "300", 
+                        "SchoolName": "Capstone Classical Academy", 
+                        "DistrictNumber": "9L"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "A1", 
+                "LEAName": "No. UT. Acad. for Math Engineering & Science", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "700", 
+                            "SchoolName": "No. UT. Acad. for Math Engineering & Science", 
+                            "DistrictNumber": "A1"
+                        }, 
+                        {
+                            "SchoolNumber": "705", 
+                            "SchoolName": "No. UT. Acad. of Math Engineering & Science Ogden", 
+                            "DistrictNumber": "A1"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "A3", 
+                "LEAName": "Davinci Academy", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Davinci Academy", 
+                        "DistrictNumber": "A3"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "A5", 
+                "LEAName": "Itineris Early College High", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "Itineris Early College High", 
+                        "DistrictNumber": "A5"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "A8", 
+                "LEAName": "East Hollywood High", 
+                "Schools": {
+                    "School": {
+                        "SchoolNumber": "700", 
+                        "SchoolName": "East Hollywood High", 
+                        "DistrictNumber": "A8"
+                    }
+                }
+            }, 
+            {
+                "LEANumber": "A9", 
+                "LEAName": "Success Academy", 
+                "Schools": {
+                    "School": [
+                        {
+                            "SchoolNumber": "710", 
+                            "SchoolName": "Success DSU", 
+                            "DistrictNumber": "A9"
+                        }, 
+                        {
+                            "SchoolNumber": "700", 
+                            "SchoolName": "Success SUU", 
+                            "DistrictNumber": "A9"
+                        }
+                    ]
+                }
+            }, 
+            {
+                "LEANumber": "NI", 
+                "LEAName": "New Hope Academy", 
+                "Schools": null
+            }
+        ]
+    }
+}

@@ -354,7 +354,6 @@ namespace ArtifactsProcessor
             }
             int totalNumArtifacts = (numArtifactsPerRater * numRaters) / 2;
 
-            //string directory = @"C:\Users\d00295458\Desktop\GEAssessment\Student Artifacts";
             //Program program = new Program(numRaters, totalNumArtifacts, directory);
             Program program = new Program(numRaters, totalNumArtifacts);
             program.createStructure();

@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "$sql_output"
+if [[ $exit_code != 0 ]] ;then
+	errormessage=`echo "$sql_output"|pcregrep --before-context 2 --multiline '(?s)^ERROR .+(?=\nDisconnected)'`
+	echo "[FEED_PROBLEM][[sqlplus exit code $exit_code"
+	echo "$errormessage]]"
+elif [[ `echo "$sql_output"|pcregrep -o '^SP2-.*'` ]] ; then
+	errormessage=`echo "$sql_output"|pcregrep -o '^SP2-.*'`
+	echo "[FEED_PROBLEM][[$errormessage]]"
+fi
